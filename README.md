@@ -242,7 +242,7 @@ This attribute expects a `String`, which is the id of a YouTube video.
 
 **If not set**, the player won't automatically play.
 
-In general you should use this attribute if you want your player to play only one video. This is not a rule, just best practice. In fact, even if you set the attribute it is still possible to play other videos programmatically.
+In general, you should use this attribute if you want your player to play only one video. This is not a rule, just best practice. In fact, even if you set the attribute it is still possible to play other videos programmatically.
 
 #### autoPlay
 This attribute expects a `boolean`. Its default value is `false`.
